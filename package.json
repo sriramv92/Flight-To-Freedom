@@ -1,0 +1,20 @@
+{
+  "name": "flight-to-freedom",
+  "version": "0.0.2",
+  "description": "Code for Flight to freedom",
+  "main": "server.js",
+  "dependencies": {
+    "serialport": "^1.2.5",
+    "socket.io": "^0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "author": "Neeraj Verma",
+  "license": "MIT"
+}
